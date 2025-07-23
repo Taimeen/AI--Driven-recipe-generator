@@ -38,17 +38,21 @@ Responsibilities handled include:
 ---
 
 ### 3. 🍳 Generated Recipe Output (with Image)
-![Recipe Output 1](https://github.com/user-attachments/assets/850c75bf-5819-499c-9b3c-8bba960db7b9)
+
+![Screenshot_23-7-2025_11828_localhost](https://github.com/user-attachments/assets/1fd8c9eb-0228-418b-a003-c548ff8d15d7)
 
 ---
 
 ### 4. 🍽️ Detailed View of Recipe
-![Recipe Output 2](https://github.com/user-attachments/assets/f5a96cdd-ee57-418a-a92c-fb986ee86a24)
+
+![Screenshot_23-7-2025_11848_localhost](https://github.com/user-attachments/assets/97313fe9-2589-4ca6-ad32-2dfccb35f530)
 
 ---
 
 ### 5. 🔄 New Ingredient Selection for Another Recipe
-![New Input Page](https://github.com/user-attachments/assets/a1268ca3-c6e4-4e9a-9d94-554f50536eda)
+
+![Screenshot_23-7-2025_11654_localhost](https://github.com/user-attachments/assets/2d8916d9-6974-42d7-a337-db253ce2272e)
+![Screenshot_23-7-2025_11722_localhost](https://github.com/user-attachments/assets/51727843-d459-4e73-b61b-7afebfff79d1)
 
 
 ---
